@@ -1,1 +1,2 @@
-dd
+<?php
+echo 11;die;
